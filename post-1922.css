@@ -3319,5 +3319,9 @@ sel.elementor-1922 .elementor-element.elementor-element-6a35898f {
 .elementor-1922 .elementor-element.elementor-element-65d20b75 {
     display: none;
 }
-
+@media(min-width:1024px) {
+    #qul {
+        display: none;
+    }
+}
 /* End custom CSS */
